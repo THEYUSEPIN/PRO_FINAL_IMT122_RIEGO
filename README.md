@@ -28,11 +28,11 @@ Componentes del Sistema:
   - Interfaz de usuario (e.g., aplicación móvil o pantalla LCD) para monitoreo y ajuste de parámetros.  
 
 Metodología de Trabajo:
-1. *Fase de análisis:** Identificación de requerimientos del proyecto y diseño del sistema.  
-2. Fase de desarrollo:** Implementación del hardware y programación del microcontrolador.  
-3. Fase de integración:** Montaje del sistema y conexión de componentes para las pruebas iniciales.  
-4. Fase de pruebas:** Validación del funcionamiento del sistema bajo distintas condiciones ambientales y de suelo.  
-5. Fase de documentación:** Redacción del informe final con los resultados y aprendizajes.  
+1. Fase de análisis: Identificación de requerimientos del proyecto y diseño del sistema.  
+2. Fase de desarrollo: Implementación del hardware y programación del microcontrolador.  
+3. Fase de integración: Montaje del sistema y conexión de componentes para las pruebas iniciales.  
+4. Fase de pruebas: Validación del funcionamiento del sistema bajo distintas condiciones ambientales y de suelo.  
+5. Fase de documentación: Redacción del informe final con los resultados y aprendizajes.  
 
 Resultados Esperados:
 Un sistema de riego eficiente y funcional, capaz de alternar entre los métodos de goteo y aspersión según las necesidades de riego del cultivo, reduciendo el consumo de agua y mejorando la productividad agrícola.
