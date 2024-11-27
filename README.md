@@ -5,8 +5,8 @@ Descripción del Proyecto:
 El proyecto consiste en el diseño e implementación de un "sistema de riego automático" que utiliza métodos de "goteo" y "aspersión", dirigido a optimizar el uso de agua y mejorar la eficiencia en el riego de cultivos. Este sistema integra sensores y actuadores controlados mediante un microcontrolador programado para tomar decisiones en función de parámetros ambientales y del estado del suelo.  
 
 Objetivos del Proyecto:
-1. Automatizar el riego** en función de las condiciones del suelo y el entorno, reduciendo el desperdicio de agua.  
-2. Incorporar **sensores de humedad del suelo, temperatura y humedad relativa** para garantizar riegos precisos.  
+1. Automatizar el riego en función de las condiciones del suelo y el entorno, reduciendo el desperdicio de agua.  
+2. Incorporar **sensores de humedad del suelo, temperatura y humedad relativa para garantizar riegos precisos.  
 3. Implementar dos modalidades de riego:  
    - Por goteo: para cultivos que requieren un suministro controlado y localizado de agua.  
    - Por aspersión: para áreas más amplias o cultivos que demanden una distribución uniforme del agua.  
